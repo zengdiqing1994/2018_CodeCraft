@@ -14,11 +14,6 @@
 
 #### 指数平滑
 
-经典的基于时序序列的预测问题，在金融领域利用的多的有“指数平滑”，“ARIMA”等，在现今火热的深度学习领域，LSTM也是首当其冲。我们采用了指数平滑的方法，分为一次，二次，三次指数平滑
+经典的基于时序序列的预测问题，在金融领域利用的多的有“指数平滑”，“ARIMA”等，在现今火热的深度学习领域，LSTM也是首当其冲。我们采用了指数平滑的方法，分为一次，二次，三次指数平滑。
 
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
-
-
-$$\frac{1}{n}$$
+一次指数平滑![](https://img-blog.csdnimg.cn/20190219100039110.png)
